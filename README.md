@@ -3,7 +3,7 @@ Customize your Leaflet story map with linked Google Sheets template and scrollin
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/kabarbour/data-mapping
+- Leaflet Map https://kabarbour.github.io/data-mapping/#3
 - Google Sheets template https://docs.google.com/spreadsheets/d/19ypKi3zcSQEuGtTz5QF_Ru3nH4T6nSeDbCrY9YORGuU/edit#gid=0
 
 ## Create Your Own
